@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      <p>Key1: <span id="key1-display"></span></p >
      <p>Key2: <span id="key2-display"></span></p >
  </div>
-  <div id="display-params">
+  <div id="display-keys">
   </div>
 </body>
 </html>
